@@ -1,0 +1,1 @@
+{"version":"0.1","connections":[{"details":{"protocol":"tds","address":{"server":"synapse-vrh-jamm-ws.sql.azuresynapse.net","database":"TitanicSQL"}},"storageMode":"DirectQuery"}]}
